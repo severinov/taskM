@@ -1,11 +1,3 @@
-//
-//  ViewController.m
-//  TaskM
-//
-//  Created by Nikita Severinov on 21.06.14.
-//  Copyright (c) 2014 Nikita Severinov. All rights reserved.
-//
-
 #import "ViewController.h"
 
 @interface ViewController ()
